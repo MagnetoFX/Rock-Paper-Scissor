@@ -5,5 +5,7 @@ This repository contains a simple yet fun implementation of the classic game Roc
 Features :
 
 Simple Command-Line Interface: The game runs in the terminal, making it easy to play.
+
 Computer Opponent: Play against a computer opponent that randomly chooses between rock, paper, and scissors.
-Replayability: Players can choose to play multiple rounds and reset the score as desired.
+
+Replayability: Players can choose to play multiple rounds.
